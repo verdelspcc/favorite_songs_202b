@@ -14,7 +14,7 @@
     <p>Welcome <?php echo $_SESSION['fullName']; ?></p>
     <a href="logout.php">Logout</a>
 
-    <h1>My Top Favorite Songs</h1>
+    <h1>My Top Favorite Songs for 2022</h1>
 
     <a class="btn btn-green" href="create.php">Add new song</a>
 
